@@ -1,6 +1,0 @@
-p multlabels
-d Multlabels: Stata command to add multiple labels to variables
-d Version: 1.0
-d Author: AaronGIG
-d Date: 2025-04-15
-f multlabels.ado
